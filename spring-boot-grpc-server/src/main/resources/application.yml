@@ -6,6 +6,7 @@ grpc:
 logging:
   level:
     org.exampledriven: DEBUG
+    org.springframework.web: DEBUG
 
 eureka:
   instance:
